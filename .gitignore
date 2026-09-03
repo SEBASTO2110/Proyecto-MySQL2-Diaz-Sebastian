@@ -1,0 +1,20 @@
+# Sistema operativo.
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Volcados y respaldos de MySQL
+*.dump
+*.bak
+backup/
+dumps/
+
+# Credenciales locales (nunca versionar)
+*.cnf
+.env
+
